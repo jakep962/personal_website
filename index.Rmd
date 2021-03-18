@@ -1,4 +1,4 @@
---- 
+---
 author: "Jacob Prosser"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -6,17 +6,36 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-# About myself 
-I am a theoretical ecologist. I build mathematical and statistical models and combine analytical methods with numerical simulations to solve problems in ecology. My research experience is focused on symbiotic interactions, but I have broad interests ranging from population dynamics and epidemiology to medical applications.
+# About myself {.unnumbered}
 
-I am a member of the Hurford and Dufour labs at Memorial University. Contact me at:
+<center>
 
-Department of Biology
+![](images/AA2722E3-8490-4026-AD03-942602591E20.jpeg){width="400"}
+
+</center>
+
+I am a theoretical biologist currently working in the [Hurford Population+ lab](https://amyhurford.weebly.com/) at [Memorial University](https://www.mun.ca/) in St. John's Newfoundland. I build mathematical and statistical models to model population dynamics and make long-term predictions for salmon lice *Lepeophtheirus salmonis* My research experience is focused on the impact of environmental conditions, but I have broad interests ranging from population dynamics, ecosystem modeling and epidemiology to medical applications.
+
+I can be contact at:
+
+**Postal Address**
+
+<center>
+
+Department of Biology Memorial University
+
 232 Elizabeth Ave.
-Memorial University
-St. John’s NL Canada A1B 3X9
 
-jmarinocoron[at]mun[dot]ca
+St. John's NL A1B 3X9
+
+Canada
+
+</center>
+
+**Email**
+
+jtprosser\@mun.ca
