@@ -1,3 +1,3 @@
 # Current Resereach {-}
 
-I'm currently working on this page. Check back soon! 
+I'm an MSc student in [Dr. Hurford's Population+ lab](https://ahurford.github.io/website/#dr.-amy-hurford) researching the effects of small-scale daily changes in environmental conditions has on the long-term growth and persistence of salmon lice *Lepeophtheirus salmonis* in Newfoundland. My work uses a stochastic discrete-time population model to explore outcomes of a theoretical population to various salinity scenarios in Bay D'Espoir, Newfoundland. I'm hoping to have my first chapter published soon!
