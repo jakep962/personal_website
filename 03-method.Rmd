@@ -4,6 +4,15 @@
 
 Starting in late 2020, I was brought on as one of the Marine Biologist for the Newfoundland-based tech startup [Aquafort AI](https://aquafort.ai/). Aquafort AI is an aquaculture technology company aiming to transform the global aquaculture production process and fortify global food security. As their Marine Biologist intern, I've performed literature reviews, consulted on general biological processes and topics, and contact various organizations.
 
+
+
+
+**Biology Department of Memorial University's Quantitative Skills for Biology Guide** 
+
+As more biology-relevant skills become easily performed using computers (statistical analyses, mathematical modelling, managing and reformatting data, etc.) Memorial University is increasing the focus of quantitative skills and best practices throughout its Biology curriculum. As quantitative skills are introduced into various classes, as part of a team, I have contributed to creating the [Quantiative skills for biology guide](https://ahurford.github.io/quant-guide-all-courses/) and several specific course bookdown websites (Principles of Biology [BIOL 1001](https://ahurford.github.io/BIOL-1001/) & [BIOL1002](https://jakep962.github.io/Biol_1002/), [Ecology](https://jakep962.github.io/biol_2600_bookdown/)). 
+
+
+
 # Publications, Presentations, and Involvement {.unnumbered}
 
 **Publications**
