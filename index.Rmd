@@ -18,7 +18,7 @@ description: "This is a minimal example of using the bookdown package to write a
 
 </center>
 
-I am a theoretical biologist currently working in the [Hurford Population+ lab](https://amyhurford.weebly.com/) at [Memorial University](https://www.mun.ca/) in St. John's Newfoundland. I build mathematical and statistical models to model population dynamics and make long-term predictions for salmon lice *Lepeophtheirus salmonis* My research experience is focused on the impact of environmental conditions, but I have broad interests ranging from population dynamics, ecosystem modeling and epidemiology to medical applications.
+I am a theoretical biologist currently working in the [Hurford Population+ lab](https://amyhurford.weebly.com/) at [Memorial University](https://www.mun.ca/) in St. John's Newfoundland. I build mathematical and statistical models to model population dynamics and make long-term predictions for salmon lice *Lepeophtheirus salmonis*. My research experience is focused on the impact of environmental conditions, but I have broad interests ranging from population dynamics, ecosystem modeling and epidemiology to medical applications.
 
 I can be contact at:
 
